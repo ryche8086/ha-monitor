@@ -1,8 +1,5 @@
 # ha-monitor
 
-<img width="877" height="1158" alt="image" src="https://github.com/user-attachments/assets/2a36cbe2-0311-40be-befe-a7e4ad361045" />
-
-
 ---
 
 ## 📋 项目简介
@@ -34,3 +31,5 @@ Docker Pull命令 docker pull ry86/ha-monitor:latest
 | `ServerChan SendKey` | Server酱 SendKey | `SCT12345T...` |
 
 | `ENTITY_ID` | 监控对象实体 ID | `sensor.bedroom` |
+
+<img width="877" height="1158" alt="image" src="https://github.com/user-attachments/assets/2a36cbe2-0311-40be-befe-a7e4ad361045" />
