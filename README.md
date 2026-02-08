@@ -22,7 +22,7 @@ Docker Pull命令 docker pull ry86/ha-monitor:latest
 1. **Home Assistant LLAT**: 在 HA 个人设置页面底部创建。
 2. **Server酱 SendKey**: 从https://sct.ftqq.com 获取。
 
-### 关键参数表（example）
+### 关键参数（example）
 
 | `HA 地址` | HA 访问地址 | `http://192.168.1.10:8123` |
 
