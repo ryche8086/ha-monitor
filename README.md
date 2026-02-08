@@ -11,6 +11,7 @@
 Server酱消息推送服务每日免费推送五条信息。详情见https://sct.ftqq.com
 
 Docker部署https://hub.docker.com/r/ry86/ha-monitor
+
 Docker Pull命令 docker pull ry86/ha-monitor:latest
 
 ---
