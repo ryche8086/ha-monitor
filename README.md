@@ -21,6 +21,9 @@ Server酱消息推送服务每日免费推送五条信息。详情见https://sct
 ### 关键参数表（example）
 
 | `HA 地址` | HA 访问地址 | `http://192.168.1.10:8123` |
+
 | `LLAT` | 长期访问令牌 | `eyJhbGciOiJIUzI1Ni...` |
+
 | `ServerChan SendKey` | Server酱 SendKey | `SCT12345T...` |
+
 | `ENTITY_ID` | 监控对象 ID | `sensor.bedroom_temp` |
