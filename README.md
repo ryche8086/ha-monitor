@@ -26,4 +26,4 @@ Server酱消息推送服务每日免费推送五条信息。详情见https://sct
 
 | `ServerChan SendKey` | Server酱 SendKey | `SCT12345T...` |
 
-| `ENTITY_ID` | 监控对象 ID | `sensor.bedroom_temp` |
+| `ENTITY_ID` | 监控对象 ID | `sensor.bedroom` |
